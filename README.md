@@ -2,7 +2,7 @@
 Once you have completed converting a class from Matlab to Python please mark it below
 
 # TODO:
-- [.] 02
+- [X] 02
 - [ ] 03
 - [ ] 04
 - [ ] 05
